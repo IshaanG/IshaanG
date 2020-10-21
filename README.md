@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=IshaanG.IshaanG)
 
 [![Ishaan's github stats](https://github-readme-stats.vercel.app/api?username=IshaanG)](https://github.com/anuraghazra/github-readme-stats)
